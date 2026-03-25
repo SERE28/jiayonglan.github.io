@@ -14,17 +14,17 @@ This GitHub is where I learn, experiment, and have fun.
 Some of the anime I’ve enjoyed the most:
 
 - Frieren  
-- 86  
-- Mushoku Tensei  
-- (add any others you want)
+- 86 Eighty Six
+- Mushoku Tensei
+- Cosmic Princess Kaguya!
 
 ---
 
 ## 📚 Light Novels, Manga & Manhwa  
 These are the stories I’ve been reading, catching up on, or following lately:
 
-- **86 - Eighty Six (Light Novel)**  
-- **Player (Manhwa)**  
+- **86 - Eighty Six**  
+- **Player**  
 - **Haimiya Senpai wa Kowai Demo Kawaii (灰宮先輩は怖いけど可愛い)**  
 - **Kimi wa Yotsuba no Clover (君は四つ葉のクローバー)**  
 - **The Extra’s Academy Survival Guide**  
@@ -45,7 +45,7 @@ Some of the genres I enjoy:
 
 ---
 
-## ☕ Hobbies & Things That Make Me Happy  
+## Hobbies & Things That Make Me Happy  
 
 ### **Coding things nobody asked for**  
 I like programming random things just to try them out. Since I’m still in my first year, there are a lot of concepts I don’t fully understand yet, so I experiment out of curiosity. It’s my way of learning — breaking things, fixing them, and figuring out how everything works.
@@ -64,7 +64,7 @@ I love sweets, so baking is something I genuinely enjoy. Cakes, pastries, anythi
 
 ---
 
-## 💫 Thanks for stopping by  
+## Thanks for stopping by  
 If you find something you like, awesome.  
 If not, that’s fine too.  
 This GitHub is my personal space to create, learn, and have fun.
